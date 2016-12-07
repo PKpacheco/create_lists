@@ -13,7 +13,6 @@ def add_numbers(x, y, z, s):
         while (qtd_lists > 0):
             final_num = inicial_num + size
             for value in range(inicial_num, final_num):
-                # square_value = value * value
                 square_list.append(value * value)
             qtd_lists = qtd_lists - 1
             inicial_num = final_num
