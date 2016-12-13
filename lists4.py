@@ -31,16 +31,7 @@ if __name__ == "__main__":
 
 
 '''
-x - numero inicial (1 = [1,2,3])
-y - tamanho das listas (2 = [1,2])
-z - quantidade de listas (3 = [1,2],[3,4],[5,6])
+x - Inicial number (1 = [1,2,3])
+y - Size of lists (2 = [1,2])
+z - Amount of lists (3 = [1,2],[3,4],[5,6])
 '''
-
-# a = []
-# for x in a range(1,4):
-#     a[i] = a[i] * a[i]
-#     i=+1
-#
-# words = ['cat', 'window', 'defenestrate']
-# for value  in words:
-#     print w
